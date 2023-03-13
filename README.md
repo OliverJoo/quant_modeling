@@ -1,6 +1,10 @@
 # Quantitative Modelings
 
-1. Efficient Frontier and Optimizing PF assets allocation
-2. FV, PV, PF Profile, VaR, MonteCarloSimulation
-3. Financial Reporting Analysis Functions
-
+* Package structure
+* ├── Basic_Finance
+* │ ├── FV_PV_PFPrfile_VaR_MonteCarloSimulation.ipynb: FV, PV, PF Profile, VaR, Monte Carlo Simulation
+* │ ├── EfficientFrontier.ipynb: Efficient Frontier and Optimizing PF assets allocation
+* │ ├── FRA.ipynb: Financial Reporting Analysis Functions For US listing companies
+* ├── MDLing
+* │ ├── 
+* └── README.md
