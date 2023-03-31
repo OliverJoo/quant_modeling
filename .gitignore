@@ -402,4 +402,17 @@ Prep/textrank/
 *.sql
 *.ttf
 
+# Data Folder and Files added Mar 31, 2023
+data/
+Basic_Finance/data/
+*.npy
+*.parquet
+*.tsv
+*.htm
+*.h5
+assets.h5
+*.csv
+create_dataset.ipynb
+get_data.py
+
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,visualstudiocode,django
