@@ -414,5 +414,6 @@ assets.h5
 *.csv
 create_dataset.ipynb
 get_data.py
+MI.ipynb
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,visualstudiocode,django
