@@ -416,5 +416,6 @@ create_dataset.ipynb
 get_data.py
 MI.ipynb
 *.png
+utils.*
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,visualstudiocode,django
