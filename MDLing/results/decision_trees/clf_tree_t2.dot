@@ -1,0 +1,29 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label=<t-1 &le; -0.146<br/>gini = 0.492<br/>samples = 77176<br/>value = [33777, 43399]<br/>class = Up>, fillcolor="#d3e9f9"] ;
+1 [label=<t-2 &le; -0.179<br/>gini = 0.5<br/>samples = 3459<br/>value = [1775, 1684]<br/>class = Down>, fillcolor="#fef9f5"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<gini = 0.493<br/>samples = 471<br/>value = [208, 263]<br/>class = Up>, fillcolor="#d6ebfa"] ;
+1 -> 2 ;
+3 [label=<t-1 &le; -0.262<br/>gini = 0.499<br/>samples = 2988<br/>value = [1567, 1421]<br/>class = Down>, fillcolor="#fdf3ed"] ;
+1 -> 3 ;
+4 [label="(...)", fillcolor="#C0C0C0"] ;
+3 -> 4 ;
+5 [label="(...)", fillcolor="#C0C0C0"] ;
+3 -> 5 ;
+10 [label=<t-2 &le; 0.181<br/>gini = 0.491<br/>samples = 73717<br/>value = [32002, 41715]<br/>class = Up>, fillcolor="#d1e8f9"] ;
+0 -> 10 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+11 [label=<t-2 &le; -0.148<br/>gini = 0.491<br/>samples = 71340<br/>value = [30833, 40507]<br/>class = Up>, fillcolor="#d0e8f9"] ;
+10 -> 11 ;
+12 [label="(...)", fillcolor="#C0C0C0"] ;
+11 -> 12 ;
+17 [label="(...)", fillcolor="#C0C0C0"] ;
+11 -> 17 ;
+24 [label=<t-1 &le; 0.144<br/>gini = 0.5<br/>samples = 2377<br/>value = [1169, 1208]<br/>class = Up>, fillcolor="#f9fcfe"] ;
+10 -> 24 ;
+25 [label="(...)", fillcolor="#C0C0C0"] ;
+24 -> 25 ;
+30 [label="(...)", fillcolor="#C0C0C0"] ;
+24 -> 30 ;
+}
