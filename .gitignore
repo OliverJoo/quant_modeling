@@ -414,7 +414,6 @@ assets.h5
 *.csv
 create_dataset.ipynb
 get_data.py
-MI.ipynb
 *.png
 utils.*
 
