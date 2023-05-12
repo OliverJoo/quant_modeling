@@ -418,5 +418,6 @@ create_dataset.ipynb
 get_data.py
 *.png
 MDLing/RandomForest/utils4t.py
-
+*.joblib
+*.txt
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,visualstudiocode,django
