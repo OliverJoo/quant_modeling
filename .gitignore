@@ -405,6 +405,7 @@ Prep/textrank/
 # Data Folder and Files added Mar 31, 2023
 data/
 sources/
+RandomForest/results/
 Basic_Finance/data/
 *.npy
 *.parquet
