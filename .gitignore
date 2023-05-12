@@ -416,6 +416,6 @@ assets.h5
 create_dataset.ipynb
 get_data.py
 *.png
-utils4t.*
+MDLing/RandomForest/utils4t.py
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,visualstudiocode,django
