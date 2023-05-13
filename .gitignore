@@ -407,6 +407,7 @@ data/
 sources/
 MDLing/RandomForest/results/
 Basic_Finance/data/
+catboost_info/
 *.npy
 *.parquet
 *.tsv
