@@ -421,5 +421,6 @@ get_data.py
 utils4t.py
 *.joblib
 *.txt
+*.json
 results/
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,visualstudiocode,django
