@@ -38,6 +38,7 @@ wheels/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
+trading_env.py
 *.egg
 *.html
 MANIFEST
