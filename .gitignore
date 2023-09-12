@@ -42,6 +42,7 @@ trading_env.py
 *.egg
 *.html
 MANIFEST
+*.pickle
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
