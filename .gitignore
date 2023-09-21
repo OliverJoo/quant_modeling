@@ -43,6 +43,7 @@ trading_env.py
 *.html
 MANIFEST
 *.pickle
+*.pkl
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
