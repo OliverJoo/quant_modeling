@@ -44,6 +44,7 @@ trading_env.py
 MANIFEST
 *.pickle
 *.pkl
+*.mp4
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
