@@ -1,4 +1,4 @@
-# Quantitative Modelings
+# Quantitative Modelings Practice
 
 * Package structure
 * ├── Basic_Finance
